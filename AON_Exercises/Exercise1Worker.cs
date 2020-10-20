@@ -103,6 +103,11 @@ namespace AON_Exercises
                     new IntNumberList()
                     {
                         new IntNumber(4)
+                    },
+                    new IntNumberList()
+                    {
+                        new IntNumber(6),
+                        new IntNumber(9)
                     }
                 },
                 new IntNumber(10)
